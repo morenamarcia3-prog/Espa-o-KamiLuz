@@ -1,0 +1,7 @@
+{
+  "name": "Espaço KamiLuz  -Epecialista Nail Fibra & Gel ",
+  "description": "A premium nail care management app for KamiLuz, featuring smart scheduling with time-blocking, 30% deposit payments, service history, and AI-powered beauty consultation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
